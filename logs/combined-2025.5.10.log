@@ -1,0 +1,260 @@
+{"level":30,"time":1746840430972,"pid":6159,"hostname":"Rs-MacBook-Pro.local","msg":"Validating config file and environment variables"}
+{"level":50,"time":1746840430973,"pid":6159,"hostname":"Rs-MacBook-Pro.local","msg":"env: BOT_TOKEN cannot be empty"}
+{"level":30,"time":1746840470780,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Validating config file and environment variables"}
+{"level":30,"time":1746840470815,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Loading commands..."}
+{"level":20,"time":1746840471067,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1746840471068,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1746840471069,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1746840471070,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1746840471071,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1746840471078,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1746840471079,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1746840471079,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1746840471080,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1746840471081,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1746840471087,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1746840471088,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1746840471089,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1746840471089,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1746840471090,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1746840471090,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1746840471090,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1746840471091,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1746840471091,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1746840471091,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1746840471092,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1746840471093,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1746840471094,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1746840471095,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1746840471107,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1746840471108,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1746840471108,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1746840471122,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 105 commands"}
+{"level":30,"time":1746840471122,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1746840471122,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Loading contexts..."}
+{"level":30,"time":1746840471123,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1746840471123,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1746840471123,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Loading events..."}
+{"level":30,"time":1746840471148,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1746840471149,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1746840471568,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1746840473784,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Logged in as DeYo#7724! (1369197089057280131)"}
+{"level":20,"time":1746840473785,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1746840473786,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Music Manager initialized"}
+{"level":30,"time":1746840473786,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1746840473821,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Giveaway Manager initialized"}
+{"level":20,"time":1746840474415,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< ready: {\"resumed\":false,\"sessionId\":\"ote6l6weee3uv88h\",\"op\":\"ready\"}"}
+{"level":20,"time":1746840474415,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":51,\"playingPlayers\":5,\"uptime\":33030766,\"memory\":{\"free\":369595568,\"used\":167275344,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.019011406844106463,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":30,"time":1746840474416,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" connected"}
+{"level":20,"time":1746840474416,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: connected in 630ms"}
+{"level":30,"time":1746840474865,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Successfully registered interactions"}
+{"level":50,"time":1746840529767,"pid":6330,"hostname":"Rs-MacBook-Pro.local","err":{"type":"DiscordAPIError","message":"Invalid Form Body\ncomponents[1].components[1].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji","stack":"DiscordAPIError[50035]: Invalid Form Body\ncomponents[1].components[1].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji\n    at handleErrors (/Users/rmreddy/Downloads/All-in-One-V3/node_modules/@discordjs/rest/dist/index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (/Users/rmreddy/Downloads/All-in-One-V3/node_modules/@discordjs/rest/dist/index.js:1133:23)\n    at async SequentialHandler.queueRequest (/Users/rmreddy/Downloads/All-in-One-V3/node_modules/@discordjs/rest/dist/index.js:963:14)\n    at async _REST.request (/Users/rmreddy/Downloads/All-in-One-V3/node_modules/@discordjs/rest/dist/index.js:1278:22)\n    at async TextChannel.send (/Users/rmreddy/Downloads/All-in-One-V3/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:177:15)\n    at async Message.safeReply (/Users/rmreddy/Downloads/All-in-One-V3/src/helpers/extenders/Message.js:19:26)\n    at async Object.messageRun (/Users/rmreddy/Downloads/All-in-One-V3/src/commands/utility/help.js:48:23)\n    at async Object.handlePrefixCommand (/Users/rmreddy/Downloads/All-in-One-V3/src/handlers/command.js:70:7)","requestBody":{"files":[],"json":{"tts":false,"enforce_nonce":false,"embeds":[{"color":428765,"thumbnail":{"url":"https://cdn.discordapp.com/avatars/1369197089057280131/fbc10f28458ad426a9714b86cb31f4a7.webp"},"image":{"url":"https://share.creavite.co/663f19346f72a4507e459a7b.gif"},"fields":[{"name":"__**<a:loading:1363179590851493958> Features [1-9]**__","value":">>> <:points:1362988742088065279> Admin \n<:users:1362988710416875560> Anime \n<:hammer:1362988671560843475> Automod \n<:cash:1362988707992441042> Economy \n<:fun:1362988649641148557> Fun \n<:notification:1362988666640797847> Giveaway \n<:link:1362988772760748062> Invite \n<:bot:1362988630733357127> Information","inline":true},{"name":"__**<a:loading:1363179590851493958> Features [10-18]**__","value":">>> <:gear:1362988633748934768> Moderation \n<:fav_songs:1362988694390439946> Music \n<:lock:1362988677784932564> Owner \n<:com:1362988647137284136> Social \n<:chart:1362988642225885314> Statistics \n<:claim:1362988660273709067> Suggestions \n<:transcript:1362988747326492782> Ticket \n<:search:1362988723737723152> Utility ","inline":true}],"description":"<a:loading:1363179590851493958> **AIO V3 is here to help. \n > It is a multipourpose bot for your discord. \n > It can help you to build a Super server.**\n<a:loading:1363179590851493958> __**BOT INFO**__\n> <:circle:1362988697338773765> Prefix: `/`\n> <:circle:1362988697338773765> Discord.js Version: `v14.15.2`\n> <:circle:1362988697338773765> Running on `20.11.1`\n> <:circle:1362988697338773765> Modified by `AlonePlayZz`"}],"components":[{"type":1,"components":[{"type":3,"custom_id":"help-menu","placeholder":"Choose the command category","options":[{"label":"Admin","value":"ADMIN","description":"View commands in Admin category","emoji":{"id":"1362988712807366820","name":"que","animated":false}},{"label":"Automod","value":"AUTOMOD","description":"View commands in Automod category","emoji":{"id":"1362988671560843475","name":"hammer","animated":false}},{"label":"Anime","value":"ANIME","description":"View commands in Anime category","emoji":{"id":"1362988710416875560","name":"users","animated":false}},{"label":"Economy","value":"ECONOMY","description":"View commands in Economy category","emoji":{"id":"1362988707992441042","name":"cash","animated":false}},{"label":"Fun","value":"FUN","description":"View commands in Fun category","emoji":{"id":"1362988649641148557","name":"fun","animated":false}},{"label":"Giveaway","value":"GIVEAWAY","description":"View commands in Giveaway category","emoji":{"id":"1362988666640797847","name":"notification","animated":false}},{"label":"Image","value":"IMAGE","description":"View commands in Image category","emoji":{"id":"1362988752313782413","name":"discrim","animated":false}},{"label":"Invite","value":"INVITE","description":"View commands in Invite category","emoji":{"id":"1362988772760748062","name":"link","animated":false}},{"label":"Information","value":"INFORMATION","description":"View commands in Information category","emoji":{"id":"1362988630733357127","name":"bot","animated":false}},{"label":"Moderation","value":"MODERATION","description":"View commands in Moderation category","emoji":{"id":"1362988677784932564","name":"lock","animated":false}},{"label":"Music","value":"MUSIC","description":"View commands in Music category","emoji":{"id":"1362988694390439946","name":"fav_songs","animated":false}},{"label":"Owner","value":"OWNER","description":"View commands in Owner category","emoji":{"id":"1362988677784932564","name":"lock","animated":false}},{"label":"Social","value":"SOCIAL","description":"View commands in Social category","emoji":{"id":"1362988647137284136","name":"com","animated":false}},{"label":"Statistics","value":"STATS","description":"View commands in Statistics category","emoji":{"id":"1362988642225885314","name":"chart","animated":false}},{"label":"Suggestion","value":"SUGGESTION","description":"View commands in Suggestion category","emoji":{"id":"1362988660273709067","name":"claim","animated":false}},{"label":"Ticket","value":"TICKET","description":"View commands in Ticket category","emoji":{"id":"1362988747326492782","name":"transcript","animated":false}},{"label":"Utility","value":"UTILITY","description":"View commands in Utility category","emoji":{"id":"1362988723737723152","name":"search","animated":false}}]}]},{"type":1,"components":[{"type":2,"emoji":{"id":"1238430085795545139"},"label":"Support Server","style":5,"url":"https://dsc.gg/playzz"},{"type":2,"emoji":{"id":"1369197089057280131"},"label":"Invite Me","style":5,"url":"https://discord.com/api/oauth2/authorize?client_id=1369197089057280131&permissions=8&scope=bot+applications.commands"},{"type":2,"emoji":{"id":"1238429509795971116"},"label":"Vote Me","style":5,"url":"https://dsc.gg/playzz"}]}],"allowed_mentions":{"replied_user":false},"message_reference":{"message_id":"1370573259820765214","fail_if_not_exists":true}}},"rawError":{"type":"Object","message":"Invalid Form Body","stack":"","code":50035,"errors":{"components":{"1":{"components":{"1":{"emoji":{"id":{"_errors":[{"code":"BUTTON_COMPONENT_INVALID_EMOJI","message":"Invalid emoji"}]}}}}}}}},"code":50035,"status":400,"method":"POST","url":"https://discord.com/api/v10/channels/1370027762919936141/messages"},"msg":"safeReply: Invalid Form Body\ncomponents[1].components[1].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji"}
+{"level":50,"time":1746840529769,"pid":6330,"hostname":"Rs-MacBook-Pro.local","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'channel')","stack":"TypeError: Cannot read properties of undefined (reading 'channel')\n    at waiter (/Users/rmreddy/Downloads/All-in-One-V3/src/commands/utility/help.js:179:25)\n    at Object.messageRun (/Users/rmreddy/Downloads/All-in-One-V3/src/commands/utility/help.js:49:14)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.handlePrefixCommand (/Users/rmreddy/Downloads/All-in-One-V3/src/handlers/command.js:70:7)"},"msg":"messageRun: Cannot read properties of undefined (reading 'channel')"}
+{"level":20,"time":1746840534416,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":51,\"playingPlayers\":5,\"uptime\":33090765,\"memory\":{\"free\":252834768,\"used\":284036144,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.026217228464419477,\"lavalinkLoad\":0.03289473684210526},\"op\":\"stats\"}"}
+{"level":20,"time":1746840594408,"pid":6330,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":51,\"playingPlayers\":6,\"uptime\":33150765,\"memory\":{\"free\":123617064,\"used\":413253848,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.015151515151515152,\"lavalinkLoad\":0.03289473684210526},\"op\":\"stats\"}"}
+{"level":30,"time":1746840607003,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Validating config file and environment variables"}
+{"level":30,"time":1746840607036,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Loading commands..."}
+{"level":20,"time":1746840607288,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1746840607288,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1746840607289,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1746840607290,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1746840607291,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1746840607298,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1746840607299,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1746840607299,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1746840607300,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1746840607301,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1746840607308,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1746840607309,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1746840607310,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1746840607310,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1746840607311,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1746840607311,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1746840607311,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1746840607312,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1746840607312,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1746840607313,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1746840607313,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1746840607314,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1746840607315,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1746840607316,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1746840607328,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1746840607328,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1746840607329,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1746840607342,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 105 commands"}
+{"level":30,"time":1746840607342,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1746840607342,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Loading contexts..."}
+{"level":30,"time":1746840607343,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1746840607343,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1746840607343,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Loading events..."}
+{"level":30,"time":1746840607369,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1746840607369,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1746840608077,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1746840610123,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Logged in as DeYo#7724! (1369197089057280131)"}
+{"level":20,"time":1746840610123,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1746840610124,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Music Manager initialized"}
+{"level":30,"time":1746840610124,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1746840610162,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Giveaway Manager initialized"}
+{"level":20,"time":1746840610507,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< ready: {\"resumed\":false,\"sessionId\":\"6l76shh86djy17e1\",\"op\":\"ready\"}"}
+{"level":20,"time":1746840610507,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":50,\"playingPlayers\":5,\"uptime\":33166768,\"memory\":{\"free\":94446952,\"used\":442423960,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.014218009478672985,\"lavalinkLoad\":0.011556240369799691},\"op\":\"stats\"}"}
+{"level":30,"time":1746840610507,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" connected"}
+{"level":20,"time":1746840610507,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: connected in 383ms"}
+{"level":30,"time":1746840611184,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Successfully registered interactions"}
+{"level":20,"time":1746840670417,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":51,\"playingPlayers\":4,\"uptime\":33226768,\"memory\":{\"free\":292884096,\"used\":243986816,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.009404388714733543,\"lavalinkLoad\":0.005778120184899846},\"op\":\"stats\"}"}
+{"level":20,"time":1746840730517,"pid":6658,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":50,\"playingPlayers\":5,\"uptime\":33286768,\"memory\":{\"free\":186442208,\"used\":350428704,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.008,\"lavalinkLoad\":0.007704160246533128},\"op\":\"stats\"}"}
+{"level":30,"time":1746840777111,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Validating config file and environment variables"}
+{"level":30,"time":1746840777145,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Loading commands..."}
+{"level":20,"time":1746840777380,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1746840777380,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1746840777381,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1746840777382,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1746840777383,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1746840777390,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1746840777391,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1746840777391,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1746840777392,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1746840777393,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1746840777400,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1746840777400,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1746840777401,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1746840777401,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1746840777402,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1746840777402,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1746840777402,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1746840777403,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1746840777403,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1746840777404,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1746840777404,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1746840777405,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1746840777406,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1746840777407,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1746840777416,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1746840777416,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1746840777417,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1746840777433,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 105 commands"}
+{"level":30,"time":1746840777433,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1746840777433,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Loading contexts..."}
+{"level":30,"time":1746840777434,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1746840777434,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1746840777434,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Loading events..."}
+{"level":30,"time":1746840777459,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1746840777459,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1746840777883,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1746840779526,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Logged in as DeYo#7724! (1369197089057280131)"}
+{"level":20,"time":1746840779527,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1746840779528,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Music Manager initialized"}
+{"level":30,"time":1746840779528,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1746840779560,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Giveaway Manager initialized"}
+{"level":20,"time":1746840779878,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< ready: {\"resumed\":false,\"sessionId\":\"gxivvxrhwfgaxn3n\",\"op\":\"ready\"}"}
+{"level":20,"time":1746840779878,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":50,\"playingPlayers\":5,\"uptime\":33336169,\"memory\":{\"free\":87314728,\"used\":449556184,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.023148148148148147},\"op\":\"stats\"}"}
+{"level":30,"time":1746840779878,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" connected"}
+{"level":20,"time":1746840779878,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: connected in 350ms"}
+{"level":30,"time":1746840780568,"pid":6760,"hostname":"Rs-MacBook-Pro.local","msg":"Successfully registered interactions"}
+{"level":30,"time":1746840843839,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Validating config file and environment variables"}
+{"level":30,"time":1746840843872,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Loading commands..."}
+{"level":20,"time":1746840844112,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1746840844113,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1746840844114,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1746840844115,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1746840844115,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1746840844122,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1746840844123,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1746840844124,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1746840844125,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1746840844125,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1746840844132,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1746840844133,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1746840844133,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1746840844134,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1746840844134,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1746840844134,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1746840844135,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1746840844135,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1746840844135,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1746840844136,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1746840844136,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1746840844137,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1746840844165,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1746840844179,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1746840844199,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1746840844213,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1746840844213,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1746840844226,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 105 commands"}
+{"level":30,"time":1746840844227,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1746840844227,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Loading contexts..."}
+{"level":30,"time":1746840844227,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1746840844228,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1746840844228,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Loading events..."}
+{"level":30,"time":1746840844253,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1746840844253,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1746840844656,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1746840846886,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Logged in as DeYo#7724! (1369197089057280131)"}
+{"level":20,"time":1746840846886,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1746840846887,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Music Manager initialized"}
+{"level":30,"time":1746840846887,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1746840846922,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Giveaway Manager initialized"}
+{"level":20,"time":1746840847249,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< ready: {\"resumed\":false,\"sessionId\":\"4wqp2cahf3lslnah\",\"op\":\"ready\"}"}
+{"level":30,"time":1746840847249,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" connected"}
+{"level":20,"time":1746840847250,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: connected in 363ms"}
+{"level":20,"time":1746840847253,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":49,\"playingPlayers\":3,\"uptime\":33403603,\"memory\":{\"free\":264869960,\"used\":272000952,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.03806228373702422,\"lavalinkLoad\":0.012826492537313433},\"op\":\"stats\"}"}
+{"level":30,"time":1746840847917,"pid":6808,"hostname":"Rs-MacBook-Pro.local","msg":"Successfully registered interactions"}
+{"level":30,"time":1746840874655,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Validating config file and environment variables"}
+{"level":30,"time":1746840874688,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Loading commands..."}
+{"level":20,"time":1746840874928,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1746840874929,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1746840874930,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1746840874931,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1746840874932,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1746840874939,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1746840874940,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1746840874941,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1746840874942,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1746840874942,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1746840874949,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1746840874950,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1746840874950,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1746840874951,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1746840874951,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1746840874952,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1746840874952,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1746840874952,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1746840874953,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1746840874953,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1746840874954,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1746840874954,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1746840874956,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1746840874956,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1746840874966,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1746840874969,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1746840874969,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1746840874983,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 105 commands"}
+{"level":30,"time":1746840874983,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1746840874983,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Loading contexts..."}
+{"level":30,"time":1746840874984,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1746840874984,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1746840874984,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Loading events..."}
+{"level":30,"time":1746840875009,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1746840875009,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Launching dashboard"}
+{"level":30,"time":1746840875093,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1746840875518,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1746840875535,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1746840875535,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"http://localhost:8080"}
+{"level":30,"time":1746840877853,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Logged in as DeYo#7724! (1369197089057280131)"}
+{"level":20,"time":1746840877853,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1746840877854,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Music Manager initialized"}
+{"level":30,"time":1746840877854,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1746840878026,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Giveaway Manager initialized"}
+{"level":20,"time":1746840878218,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< ready: {\"resumed\":false,\"sessionId\":\"p1xmotdczgfpoogf\",\"op\":\"ready\"}"}
+{"level":20,"time":1746840878218,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":50,\"playingPlayers\":4,\"uptime\":33434576,\"memory\":{\"free\":203651112,\"used\":333219800,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.02717391304347826},\"op\":\"stats\"}"}
+{"level":30,"time":1746840878218,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" connected"}
+{"level":20,"time":1746840878219,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: connected in 365ms"}
+{"level":30,"time":1746840878857,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Successfully registered interactions"}
+{"level":20,"time":1746840938211,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":50,\"playingPlayers\":5,\"uptime\":33494575,\"memory\":{\"free\":87933000,\"used\":448937912,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.027777777777777776},\"op\":\"stats\"}"}
+{"level":20,"time":1746840998293,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":50,\"playingPlayers\":5,\"uptime\":33554575,\"memory\":{\"free\":280956616,\"used\":255914296,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.027777777777777776},\"op\":\"stats\"}"}
+{"level":20,"time":1746841058217,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":50,\"playingPlayers\":5,\"uptime\":33614575,\"memory\":{\"free\":163611104,\"used\":373259808,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1746841118306,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":51,\"playingPlayers\":6,\"uptime\":33674575,\"memory\":{\"free\":338614896,\"used\":198256016,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.1388888888888889},\"op\":\"stats\"}"}
+{"level":20,"time":1746841178212,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":51,\"playingPlayers\":6,\"uptime\":33734575,\"memory\":{\"free\":211448752,\"used\":325422160,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.027777777777777776},\"op\":\"stats\"}"}
+{"level":20,"time":1746841238320,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":51,\"playingPlayers\":7,\"uptime\":33794575,\"memory\":{\"free\":389932744,\"used\":146938168,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.027777777777777776},\"op\":\"stats\"}"}
+{"level":20,"time":1746841298223,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":51,\"playingPlayers\":7,\"uptime\":33854575,\"memory\":{\"free\":252601496,\"used\":284269416,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1746841358209,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":52,\"playingPlayers\":9,\"uptime\":33914575,\"memory\":{\"free\":109101016,\"used\":427769896,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.027777777777777776},\"op\":\"stats\"}"}
+{"level":20,"time":1746841418206,"pid":6846,"hostname":"Rs-MacBook-Pro.local","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":51,\"playingPlayers\":7,\"uptime\":33974575,\"memory\":{\"free\":272122392,\"used\":264748520,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}

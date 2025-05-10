@@ -1,17 +1,17 @@
 module.exports = {
-  OWNER_IDS: ["870179991462236170"], // Bot owner ID's
-  SUPPORT_SERVER: "https://dsc.gg/codexdev", // Your bot support server
-  CLIENT_ID: "1168170696493510826",
-  VOTE: "https://dsc.gg/codexdev",
+  OWNER_IDS: ["1329052943084683338"], // Bot owner ID's
+  SUPPORT_SERVER: "https://dsc.gg/playzz", // Your bot support server
+  CLIENT_ID: "1369197089057280131",
+  VOTE: "https://dsc.gg/playzz",
   PREFIX_COMMANDS: {
     ENABLED: true, // Enable/Disable prefix commands
-    DEFAULT_PREFIX: ",", // Default prefix for the bot
+    DEFAULT_PREFIX: ".", // Default prefix for the bot
   },
   INTERACTIONS: {
     SLASH: true, // Should the interactions be enabled
     CONTEXT: true, // Should contexts be enabled
     GLOBAL: true, // Should the interactions be registered globally
-    TEST_GUILD_ID: "1238428698575900682", // Guild ID where the interactions should be registered. [** Test you commands here first **]
+    TEST_GUILD_ID: "1369200372740001822", // Guild ID where the interactions should be registered. [** Test you commands here first **]
   },
   EMBED_COLORS: {
     BOT_EMBED: "#068ADD",
@@ -38,7 +38,7 @@ module.exports = {
   },
 
   DASHBOARD: {
-    enabled: false, // enable or disable dashboard
+    enabled: true, // enable or disable dashboard
     baseURL: "http://localhost:8080", // base url
     failureURL: "http://localhost:8080", // failure redirect url
     port: "8080", // port to run the bot on

@@ -110,12 +110,12 @@ async function getHelpMenu({ client, guild }) {
     .setLabel("Support Server")
     .setEmoji('1238430085795545139')
     .setStyle(ButtonStyle.Link)
-    .setURL("https://dsc.gg/codexdev");
+    .setURL("https://dsc.gg/playzz");
 
   const inviteButton = new ButtonBuilder()
     .setLabel("Invite Me")
     .setStyle(ButtonStyle.Link)
-    .setEmoji('1238429920573784074')
+    .setEmoji('🎉')
     .setURL(`https://discord.com/api/oauth2/authorize?client_id=${CLIENT_ID}&permissions=8&scope=bot+applications.commands`);
 
   const voteButton = new ButtonBuilder()
@@ -156,12 +156,12 @@ async function getHelpMenu({ client, guild }) {
           inline: true
         }
         ])
-    .setDescription(`<a:loading:1363179590851493958> **AIO V3 is here to help. \n > It is a multipourpose bot for your discord. \n > It can help you to build a Super server.**
+    .setDescription(`<a:loading:1363179590851493958> **Deyo is here to help. \n > It is a multipourpose bot for your discord. \n > It can help you to build a Super server.**
 <a:loading:1363179590851493958> __**BOT INFO**__
 > <:circle:1362988697338773765> Prefix: \`/\`
 > <:circle:1362988697338773765> Discord.js Version: \`v14.15.2\`
 > <:circle:1362988697338773765> Running on \`${process.versions.node}\`
-> <:circle:1362988697338773765> Modified by \`ray.dev\``);
+> <:circle:1362988697338773765> Modified by \`AlonePlayZz\``);
 
   return {
     embeds: [embed],
@@ -176,6 +176,8 @@ async function getHelpMenu({ client, guild }) {
  * @param {string} prefix
  */
 const waiter = (msg, userId, prefix) => {
+  if (!msg) return;
+  
   const collector = msg.channel.createMessageComponentCollector({
     filter: (reactor) => reactor.user.id === userId && msg.id === reactor.message.id,
     idle: IDLE_TIMEOUT * 1000,
